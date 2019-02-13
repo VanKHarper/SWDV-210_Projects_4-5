@@ -3,7 +3,7 @@
   Date          Name            Description
   ----------    -------------   -----------------------------------------------
   2-12-2018      VHarper        Adding functions/methods
-  ----------------------------------------------------------------------------->
+  --------------------------------------------------------------------------->
 <?php   
 // Connects to database, visitors and employees PHP files or thorws a connection error
 try {
